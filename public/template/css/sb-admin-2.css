@@ -46,7 +46,9 @@
 *::after {
   box-sizing: border-box;
 }
-
+.bg-purple {
+  background-color: var(--purple);
+}
 html {
   font-family: sans-serif;
   line-height: 1.15;
